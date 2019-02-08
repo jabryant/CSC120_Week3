@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled">
+				<Option output="C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/untitled.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="y:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="y:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="y:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="y:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="y:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="y:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled"/>
+					<CompileFile command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled/fast">
+				<Option output="C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/untitled.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="y:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="y:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="y:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="y:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="y:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="y:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled/fast"/>
+					<CompileFile command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="Y:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/james.bryant/CLionProjects/ClassesExample/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/james.bryant/CLionProjects/ClassesExample/Account.h">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/james.bryant/CLionProjects/ClassesExample/main.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/james.bryant/CLionProjects/ClassesExample/main2.cpp">
+			<Option target="untitled"/>
+		</Unit>
+		<Unit filename="C:/Users/james.bryant/CLionProjects/ClassesExample/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
